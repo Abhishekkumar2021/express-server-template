@@ -4,14 +4,15 @@
   "description": "Started code to start backend project with NodeJS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Abhishekkumar2021/express-server-template.git"
   },
   "keywords": [
-    "express"
+    "express","server","starter-code"
   ],
   "author": "Abhishek kumar",
   "license": "ISC",
@@ -24,6 +25,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.1",
-    "mongoose": "^6.6.3"
+    "mongoose": "^6.6.3",
+    "nodemon": "^2.0.20"
   }
 }
