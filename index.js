@@ -28,6 +28,7 @@ mongoose
     //listen for requests only after we have connected to database
     app.listen(port, () => {
       console.log("Connected to db & Server is running on PORT " + port);
+      console.log(`Open in the browser : https://localhost:${port}`)
     });
   })
   .catch((error) => {
