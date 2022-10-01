@@ -1,0 +1,22 @@
+{
+  "name": "express-server-template",
+  "version": "1.0.0",
+  "description": "Started code to start backend project with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishekkumar2021/express-server-template.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Abhishek kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishekkumar2021/express-server-template/issues"
+  },
+  "homepage": "https://github.com/Abhishekkumar2021/express-server-template#readme"
+}
